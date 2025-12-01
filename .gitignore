@@ -1,0 +1,235 @@
+############################
+# OS SYSTEM FILES
+############################
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.*.swp
+*.swp
+*~
+.cache/
+
+
+############################
+# IDE / EDITOR
+############################
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# JetBrains (IntelliJ / PyCharm / WebStorm …)
+.idea/*
+!.idea/codeStyles/
+!.idea/runConfigurations/
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+*~
+.#*
+*.elc
+
+
+############################
+# GENERAL
+############################
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment
+.env
+.env.*
+
+
+############################
+# NODE.JS
+############################
+
+node_modules/
+dist/
+build/
+.cache/
+.next/
+out/
+npm-debug.log
+yarn-error.log
+
+# TypeScript
+*.tsbuildinfo
+
+
+############################
+# PYTHON
+############################
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.ruff_cache/
+*.pytest_cache/
+*.mypy_cache/
+.env/
+.venv/
+venv/
+
+
+############################
+# JAVA
+############################
+
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+out/
+build/
+target/
+
+
+############################
+# GO
+############################
+
+bin/
+pkg/
+*.exe
+*.test
+
+
+############################
+# RUST
+############################
+
+target/
+Cargo.lock (若為 library 可忽略)
+
+
+############################
+# C / C++
+############################
+
+*.o
+*.out
+*.obj
+*.so
+*.dll
+*.exe
+
+
+############################
+# SWIFT
+############################
+
+.build/
+DerivedData/
+
+
+############################
+# DOCKER
+############################
+
+docker-data/
+*.pid
+
+
+############################
+# MISC FRAMEWORKS
+############################
+
+# React / Vue / Next / Nuxt / Svelte
+.cache/
+dist/
+build/
+
+# Laravel
+/vendor/
+node_modules/
+storage/
+.env
+
+# Django
+/staticfiles/
+db.sqlite3
+
+
+############################
+# OTHER
+############################
+
+*.bak
+*.orig
+*.tmp
+*.temp
+
+
+outputs/AllegroHandHora/
+outputs/AllegroHandHora_student/
+outputs/AllegroHandHora_student_padapt/
+outputs/AllegroHandHora_hybrid/
+outputs/XHandHoraScrewDriver_teacher/
+outputs/XHandHoraScrewDriver_student_padapt/
+outputs/NutBolt_teacher/
+outputs/NutBolt_student_padapt/
+outputs/debug/
+outputs/mujoco_exp/
+outputs/replay_data/archive/
+outputs/replay_data/800steps_latent_stu/
+outputs/replay_data/screw_df/stage2_tb/
+outputs/
+outputs/XHandHoraNutBolt_teacher/
+outputs/XHandHoraNutBolt_student_padapt/
+README_rotation_eval.md
+dexscrew/utils/pc_utils.py
+dexscrew/utils/rotation3d.py
+tb.py
+assets/screw/allnut
+hora/
+wandb/
+*.pyc
+pd_tuning_results/
+scripts/.nfs0000000000157752000004bb
+start.sh
+teacher_replay_action/
+tools/generate_cube.py
+tools/generate_cylinder.py
+analyze_hand_origin.py
+debug_dimensions.py
+temp_object_fix.py
+gen_replay_data.py
+scripts/gen_replay_data.sh
+scripts/eval_screw_rotations.sh
+scripts/eval_boltnut_rotations.sh
+eval_screw_rotations.py
+eval_boltnut_rotations.py
+test.py
+dexscrew/algo/models/act
+dexscrew/algo/models/pointnets.py
+deterministic_test.py
+# ignore Python bytecode directories
+__pycache__/
